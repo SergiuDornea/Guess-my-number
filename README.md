@@ -1,13 +1,8 @@
 # Guess-my-number
 
-Push code to Github:
+A simple guessing game
+![image](https://github.com/SergiuDornea/Guess-my-number/assets/88648596/1ef05223-e3e5-4d69-9851-c02e8a323121)
+![image](https://github.com/SergiuDornea/Guess-my-number/assets/88648596/8e33cc7c-053d-4621-b7aa-34ea3370bedb)
 
-1. Create a new repository
-2. Open the terminal
-3. Set local project to cd
-4. Initialize the local directory as a Git repository
-5. Add the files
-6. Commit the files
-7. Push the code
 
-Git usefull comands:
+
